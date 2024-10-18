@@ -4,7 +4,7 @@ import { coffes } from "../../database/coffeBase";
 
 export const Cards = () => {
   console.log(coffes);
-
+  // tengo que terminar de hacer las cards confirmarlas y terminar los botones
   return (
     <div className="w-full sm:grid sm:grid-cols-3">
       {coffes.map((i, index) => (
