@@ -6,9 +6,9 @@ export const Cards = () => {
   console.log(coffes);
 
   return (
-    <div className="w-full sm:flex sm:flex-wrap">
+    <div className="w-full sm:grid sm:grid-cols-3">
       {coffes.map((i, index) => (
-        <div className="flex items-center justify-center ">
+        <div className="flex justify-center">
           <Card
             key={index}
             id={i.id}
