@@ -5,4 +5,12 @@
 html, body{
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
+ 
+}
+
+.bg-image{
+    background-image: url(./images/bg-cafe.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
 }

@@ -7,7 +7,8 @@ function App() {
 
   return (
     <div className="bg-[#111315] flex w-full justify-center sm:py-8 py-5">
-      <div className="bg-[#1B1D1F] p-10 sm:flex sm:flex-col sm:items-center w-3/5 ">
+      <div className="bg-image"></div>
+      <div className="bg-[#1B1D1F] p-10 sm:flex sm:flex-col sm:items-center w-3/5 rounded-lg shadow-xl">
         <div className="text-center sm:w-2/6 ">
           <h2 className="p-3 text-[#FEF7EE] ">Our Collection</h2>
           <p className="text-information text-wrap text-[#6F757C]">
