@@ -16,11 +16,7 @@ function App() {
             from different roast types and origins, expertly roasted in small
             batches and shipped fresh weekly.
           </p>
-          <p className="text-information text-wrap text-[#6F757C]">
-            Introducing our Coffee Collection, a selection of unique coffees
-            from different roast types and origins, expertly roasted in small
-            batches and shipped fresh weekly.
-          </p>
+          
           <div className="m-5 flex space-x-4 items-center justify-center">
             {/* falta darle la propiedad cuando este activo el boton  */}
 
