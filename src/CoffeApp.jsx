@@ -30,11 +30,6 @@ function App() {
               textButton={"Available Now"}
               className={"text-[#FEF7EE]"}
             />
-            <Button
-              buttonActive={state}
-              textButton={"Available Now"}
-              className={"text-[#FEF7EE]"}
-            />
           </div>
         </div>
         <Cards />
